@@ -1,11 +1,24 @@
 .box {
 height: 300px;
 width: 800px;
-padding: 10px;
-margin: 50px;
+padding: 20px;
+margin-bottom: 20px;
 border: 2px solid black;
 }
 
-.date {
-  float: right;
+li{
+  margin: 5px;
+} 
+
+.section-header{ 
+  display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+.Main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
 }
