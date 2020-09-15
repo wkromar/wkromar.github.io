@@ -22,3 +22,8 @@ justify-content: space-between;
   justify-content: center;
   flex-wrap: wrap;
 }
+img{
+  Width: 80px;
+  Height: 90px;
+  float: right;
+}
