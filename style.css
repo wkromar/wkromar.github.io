@@ -1,6 +1,5 @@
 .box {
-height: 300px;
-width: 800px;
+width: 1000px;
 padding: 20px;
 margin-bottom: 20px;
 border: 2px solid black;
@@ -10,6 +9,8 @@ background-color: rgb(245, 212, 159);
 
 li{
   margin: 5px;
+  font-size: 18px;
+
 } 
 
 .section-header{ 
@@ -26,7 +27,11 @@ justify-content: space-between;
 }
 img{
   border-radius: 8px;
-  Width: 160px;
-  Height: 170px;
+  Width: 220px;
+  Height: 220px;
   float: right;
+}
+.date{
+  font-weight: bold;
+  font-size: 18px;
 }
