@@ -4,6 +4,8 @@ width: 800px;
 padding: 20px;
 margin-bottom: 20px;
 border: 2px solid black;
+border-radius: 8px;
+background-color: rgb(245, 212, 159);
 }
 
 li{
@@ -23,7 +25,8 @@ justify-content: space-between;
   flex-wrap: wrap;
 }
 img{
-  Width: 80px;
-  Height: 90px;
+  border-radius: 8px;
+  Width: 160px;
+  Height: 170px;
   float: right;
 }
